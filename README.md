@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<!--
-**shengdaozm/shengdaozm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
 
-Here are some ideas to get you started:
+### ⭐️ &nbsp;Github Star
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shengdaozm&count_private=true&show_icons=true"/>
+
+### :joy: &nbsp;About Me
+- 🔭 Location: NanJing
+- 🌱 Hobby：Reading & Writing
+- 🌙 Dream：eat and sleep
+
+### 🛠 &nbsp;Tech Stack
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shengdaozm&layout=compact&theme=tokyonight" alt="languages" height="177">
+
+### 📚 &nbsp;My Blog
+Click [this](http://146.56.247.124/)
+
+### 🤝🏻 &nbsp;Where to find me
+<a href="mailto:211471317@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-211471317@qq.com-blue?style=flat-square&logo=gmail"></a>
+
+
+### 🛳 &nbsp;Your ticket ID for this visit
+<img src="https://profile-counter.glitch.me/shengdaozm/count.svg" />
