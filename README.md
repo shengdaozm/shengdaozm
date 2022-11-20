@@ -1,6 +1,28 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<img width="100%" alt="game gif" src="https://qnycdn.volcanoblog.cn/github-contribution-grid-snake.svg"/>
+```
+  ┏┓　　　┏┓
+┏┛┻━━━┛┻┓
+┃　　　　　　　┃
+┃　　　━　　　┃
+┃　＞　　　＜　┃
+┃　　　　　　　┃
+┃...　⌒　...　┃
+┃　　　　　　　┃
+┗━┓　　　┏━┛
+    ┃　　　┃　
+    ┃　　　┃
+    ┃　　　┃
+    ┃　　　┃  神兽保佑
+    ┃　　　┃  代码无bug　　
+    ┃　　　┃
+    ┃　　　┗━━━┓
+    ┃　　　　　　　┣┓
+    ┃　　　　　　　┏┛
+    ┗┓┓┏━┳┓┏┛
+      ┃┫┫　┃┫┫
+      ┗┻┛　┗┻┛
+```
 
 ### ⭐️ &nbsp;Github Star
 
