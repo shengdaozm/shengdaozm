@@ -37,7 +37,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shengdaozm&layout=compact&theme=tokyonight" alt="languages" height="177">
 
 ### 📚 &nbsp;My Blog
-Click [this](http://shengdao.love)
+Click [this](http://dxdydz.cc)
 
 ### 🤝🏻 &nbsp;Where to find me
 <a href="mailto:211471317@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-211471317@qq.com-blue?style=flat-square&logo=gmail"></a>
