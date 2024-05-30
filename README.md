@@ -23,15 +23,17 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shengdaozm&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
-<img align="center" src="https://skillicons.dev/icons?i=c,cpp,py,rust,lua,java,html,css,git,md,matlab&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,py,rust,lua,java,latex,linux,neovim,git,md,matlab&theme=light" />
 </p>
 
+<!--显示github和qq部分-->
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/shengdaozm"><img src="https://img.shields.io/badge/GitHub-shengdaozm-blue?logo=github" /></a>
 <img src="https://img.shields.io/badge/QQ-211471317-green?logo=tencentqq" />
 </p>
 
+<!-- 底部栏 -->
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
